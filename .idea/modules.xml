@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/RaceSemaphore/RaceSemaphore.iml" filepath="$PROJECT_DIR$/RaceSemaphore/RaceSemaphore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SemaphoreCorridor/SemaphoreCorridor.iml" filepath="$PROJECT_DIR$/SemaphoreCorridor/SemaphoreCorridor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SemaphoreCrossroad/SemaphoreCrossroad.iml" filepath="$PROJECT_DIR$/SemaphoreCrossroad/SemaphoreCrossroad.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TransactionsThread/TransactionsThread.iml" filepath="$PROJECT_DIR$/TransactionsThread/TransactionsThread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/so-exercicios-semaforo-duplo.iml" filepath="$PROJECT_DIR$/.idea/so-exercicios-semaforo-duplo.iml" />
+    </modules>
+  </component>
+</project>
